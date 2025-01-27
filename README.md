@@ -71,7 +71,7 @@ The dataset used in this project contains customer feedback and sales data, enco
 6. Return Status: The majority of transactions were returned **($43,766.66)**, followed by pending returns and non-returned items.
 
 
-##Recommendations
+## Recommendations
 
 Based on the analysis, the following recommendations were made:
 
@@ -88,10 +88,4 @@ Based on the analysis, the following recommendations were made:
 6. Investigate reasons behind high return rates and revise policies or processes to minimize returns.
 
 
-## How to Use the Dashboard
 
-Open the Power BI file to interact with the dashboard.
-
-Explore various sections, such as feedback distribution, sales performance, product categories, and return statuses.
-
-Use filters to drill down into specific segments or categories for a deeper analysis.
