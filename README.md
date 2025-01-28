@@ -88,4 +88,19 @@ Based on the analysis, the following recommendations were made:
 6. Investigate reasons behind high return rates and revise policies or processes to minimize returns.
 
 
+## Tool Used 
+- **Data Cleaning & Processing:** Microsoft **Excel**  
+- **Visualization & Analysis:** **Power BI**  
+
+
+
+## **Contact & Collaboration**  
+For inquiries, feedback, or collaboration opportunities:  
+- **Created by:** Daniel Tunde Abbey  
+- **Email:** [danielabbey020@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/daniel-tunde-abbey-8a5479261]  
+
+If you find this project useful, feel free to **star the repository** and contribute improvements! 🚀  
+
+
 
